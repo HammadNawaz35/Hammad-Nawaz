@@ -90,47 +90,4 @@ Hi I'm Hammad Nawaz
   <img src="https://nirzak-streak-stats.vercel.app/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
 </p>
 
----
 
-## 📈 Activity Graph  
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
-</p>
-
----
-
-## 🏆 GitHub Trophies  
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4"/>
-</p>
-
----
-
-## 👀 Profile Views  
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=YOUR_USERNAME&icon=5&color=6"/>
-</p>
-
----
-
-## ⚡ Professional Philosophy  
-
-> “Technology is best when it empowers people. I build solutions that create impact.”
-
----
-
-## 🐍 Contribution Snake (Optional Advanced)
-
-To enable this:
-
-1. Go to your GitHub profile repository  
-2. Click **Actions**  
-3. Create new workflow  
-4. Add snake generator  
-
-(If you want, I’ll give full snake workflow code separately.)
-
----
