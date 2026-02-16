@@ -1,5 +1,14 @@
 # 💫 About Me:
-Hammad Nawaz. Did Bahelors of science in computer science BSCS. <br>Expert in Android developement java, kotlin. <br>Also front end developer. <br>Loves to learns new technologies and framework. 
+
+ 👋 Hi, I'm Hammad Nawaz
+🎓 BSCS Graduate | Android Developer | Front-End Developer
+🚀 Passionate about building scalable, user-friendly applications
+🚀 About Me
+📱 Android Developer (Java & Kotlin)
+🌐 Front-End Developer
+🧠 Tech Enthusiast who loves learning new technologies & frameworks
+💡 Strong problem-solving mindset
+🔥 Always improving, always building
 
 
 ## 🌐 Socials:
