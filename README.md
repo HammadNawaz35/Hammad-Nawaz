@@ -1,11 +1,9 @@
 # 💫 About Me:
-
- 👋 Hi, I'm Hammad Nawaz
 <!-- PROFILE HEADER -->
-<h1 align="center">
+<h4 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/>
-  Hammad Nawaz
-</h1>
+ Hi I'm Hammad Nawaz
+</h4>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=24&center=true&vCenter=true&width=700&lines=Android+Developer;Java+%7C+Kotlin+Specialist;Front-End+Developer;BSCS+Graduate;Building+Scalable+Applications;Always+Learning+New+Technologies"/>
