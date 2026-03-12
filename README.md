@@ -2,7 +2,6 @@
 
 <div align="center">
 
-<!-- Circle Avatar via SVG clip -->
 <svg width="150" height="150" viewBox="0 0 150 150" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <clipPath id="circle">
@@ -21,7 +20,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&random=false&width=600&lines=👋+Hi%2C+I'm+Hammad+Nawaz;🎓+BSCS+Graduate;📱+Android+Developer+(Java+%26+Kotlin);🌐+Front-End+Developer;⚡+Always+Learning+New+Technologies)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&random=false&width=650&lines=👋+Hi%2C+I'm+Hammad+Nawaz;🎓+BSCS+Graduate;📱+Android+Developer+(Java+%26+Kotlin);🌐+Front-End+Developer+(React+%26+TypeScript);⚡+Always+Learning+New+Technologies)](https://git.io/typing-svg)
 
 <br/>
 
@@ -33,20 +32,27 @@
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:0D1117&height=3&section=header"/>
-
 ## 🧑‍💻 About Me
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="coding gif"/>
-```yaml
-Name     : Hammad Nawaz
-Degree   : Bachelor of Science in Computer Science
-Location : Pakistan 🇵🇰
-Focus    : Android + Frontend Development
-Learning : Always exploring new tech & frameworks
-Goal     : Build scalable, user-friendly applications
-Motto    : Always improving. Always building. 🔥
-```
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260" alt="coding gif"/>
+
+<br/>
+
+🎓 &nbsp;**Bachelor of Science in Computer Science (BSCS)**
+
+📱 &nbsp;**Android Developer** &nbsp;—&nbsp; Java & Kotlin
+
+🌐 &nbsp;**Front-End Developer** &nbsp;—&nbsp; React · TypeScript · Vite
+
+🧠 &nbsp;Passionate about modern technologies & frameworks
+
+💡 &nbsp;Strong analytical & problem-solving skills
+
+🚀 &nbsp;Focused on building scalable, user-friendly applications
+
+🌍 &nbsp;Based in **Pakistan** 🇵🇰
+
+🔥 &nbsp;Always improving. Always building.
 
 <br clear="right"/>
 
@@ -56,15 +62,66 @@ Motto    : Always improving. Always building. 🔥
 
 <div align="center">
 
-[![Safarnama](https://github-readme-stats.vercel.app/api/pin/?username=HammadNawaz35&repo=Nexus&theme=tokyonight&hide_border=true&title_color=00F7FF&icon_color=00F7FF)](https://github.com/HammadNawaz35/Nexus)
+<a href="https://github.com/HammadNawaz35/Nexus">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=HammadNawaz35&repo=Nexus&theme=tokyonight&hide_border=true&title_color=00F7FF&icon_color=00F7FF&bg_color=0D1117"/>
+</a>
 
 </div>
 
+<br/>
+
 <div align="center">
 
-| 🌍 Project | 📝 Description | 🛠️ Stack | 🔗 |
-|:---:|:---|:---:|:---:|
-| **Safarnama** | Premium Pakistan Travel Website — Interactive maps, destination explorer, booking system, dark mode | React · TS · Vite · Tailwind · Leaflet · Framer Motion | [**Live →**](https://HammadNawaz35.github.io/Nexus/) |
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://img.shields.io/badge/🌍_Safarnama-Travel_Web_App-00F7FF?style=for-the-badge&labelColor=0D1117"/>
+      <br/><br/>
+      <b>Safarnama</b>
+      <br/>
+      <sub>Premium Pakistan Travel Website with interactive Leaflet maps, destination explorer, tour packages, dark/light mode & booking system</sub>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
+      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white"/>
+      <br/><br/>
+      <a href="https://HammadNawaz35.github.io/Nexus/">
+        <img src="https://img.shields.io/badge/🔗_Live_Demo-00F7FF?style=for-the-badge&labelColor=0D1117"/>
+      </a>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://img.shields.io/badge/🎵_Visha-Music_Player-FF6B6B?style=for-the-badge&labelColor=0D1117"/>
+      <br/><br/>
+      <b>Visha Music Player</b>
+      <br/>
+      <sub>Feature-rich Android music player with beautiful UI, playlist management, audio controls and smooth animations</sub>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black"/>
+      <br/><br/>
+      <a href="https://github.com/HammadNawaz35">
+        <img src="https://img.shields.io/badge/📂_View_Repo-FF6B6B?style=for-the-badge&labelColor=0D1117"/>
+      </a>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://img.shields.io/badge/🌤️_Weather-Weather_App-FFD700?style=for-the-badge&labelColor=0D1117"/>
+      <br/><br/>
+      <b>Weather App</b>
+      <br/>
+      <sub>Real-time weather application with location detection, 7-day forecast, dynamic backgrounds and weather alerts</sub>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white"/>
+      <img src="https://img.shields.io/badge/REST_API-0D1117?style=flat&logo=fastapi&logoColor=white"/>
+      <br/><br/>
+      <a href="https://github.com/HammadNawaz35">
+        <img src="https://img.shields.io/badge/📂_View_Repo-FFD700?style=for-the-badge&labelColor=0D1117"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 </div>
 
@@ -155,10 +212,6 @@ Motto    : Always improving. Always building. 🔥
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:0077B5,100:0D1117&height=120&section=footer"/>
-
-
-
-
 
 
 
