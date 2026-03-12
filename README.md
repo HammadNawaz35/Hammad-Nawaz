@@ -62,44 +62,41 @@
 
 <div align="center">
 
-<a href="https://github.com/HammadNawaz35/Nexus">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=HammadNawaz35&repo=Nexus&theme=tokyonight&hide_border=true&title_color=00F7FF&icon_color=00F7FF&bg_color=0D1117"/>
-</a>
-
-</div>
-
-<br/>
-
-<div align="center">
-
 <table>
   <tr>
     <td align="center" width="33%">
-      <img src="https://img.shields.io/badge/🌍_Safarnama-Travel_Web_App-00F7FF?style=for-the-badge&labelColor=0D1117"/>
+      <img src="https://img.shields.io/badge/🛒_Nexus-E--Commerce_Platform-00F7FF?style=for-the-badge&labelColor=0D1117"/>
       <br/><br/>
-      <b>Safarnama</b>
-      <br/>
-      <sub>Premium Pakistan Travel Website with interactive Leaflet maps, destination explorer, tour packages, dark/light mode & booking system</sub>
+      <b>Nexus — E-Commerce Platform</b>
       <br/><br/>
-      <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
+      <sub>Full-stack e-commerce platform with product listings, cart, auth, real-time state & PostgreSQL backend via Supabase</sub>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/React_18-20232A?style=flat&logo=react&logoColor=61DAFB"/>
       <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white"/>
       <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white"/>
+      <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white"/>
       <br/><br/>
-      <a href="https://HammadNawaz35.github.io/Nexus/">
+      <a href="https://hammadnawaz35.github.io/Nexus">
         <img src="https://img.shields.io/badge/🔗_Live_Demo-00F7FF?style=for-the-badge&labelColor=0D1117"/>
+      </a>
+      &nbsp;
+      <a href="https://github.com/HammadNawaz35/Nexus">
+        <img src="https://img.shields.io/badge/📂_Repo-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
       </a>
     </td>
     <td align="center" width="33%">
       <img src="https://img.shields.io/badge/🎵_Visha-Music_Player-FF6B6B?style=for-the-badge&labelColor=0D1117"/>
       <br/><br/>
       <b>Visha Music Player</b>
-      <br/>
+      <br/><br/>
       <sub>Feature-rich Android music player with beautiful UI, playlist management, audio controls and smooth animations</sub>
       <br/><br/>
       <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white"/>
       <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white"/>
       <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black"/>
+      <img src="https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white"/>
       <br/><br/>
       <a href="https://github.com/HammadNawaz35">
         <img src="https://img.shields.io/badge/📂_View_Repo-FF6B6B?style=for-the-badge&labelColor=0D1117"/>
@@ -109,12 +106,13 @@
       <img src="https://img.shields.io/badge/🌤️_Weather-Weather_App-FFD700?style=for-the-badge&labelColor=0D1117"/>
       <br/><br/>
       <b>Weather App</b>
-      <br/>
-      <sub>Real-time weather application with location detection, 7-day forecast, dynamic backgrounds and weather alerts</sub>
+      <br/><br/>
+      <sub>Real-time weather app with location detection, 7-day forecast, dynamic backgrounds and live weather alerts</sub>
       <br/><br/>
       <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white"/>
       <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white"/>
       <img src="https://img.shields.io/badge/REST_API-0D1117?style=flat&logo=fastapi&logoColor=white"/>
+      <img src="https://img.shields.io/badge/XML-E44D26?style=flat&logo=html5&logoColor=white"/>
       <br/><br/>
       <a href="https://github.com/HammadNawaz35">
         <img src="https://img.shields.io/badge/📂_View_Repo-FFD700?style=for-the-badge&labelColor=0D1117"/>
@@ -139,13 +137,20 @@
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ### 🌐 Frontend Development
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React](https://img.shields.io/badge/React_18-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### ☁️ Backend & Database
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
 
 ### 🛠️ Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
@@ -212,10 +217,6 @@
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:0077B5,100:0D1117&height=120&section=footer"/>
-
-
-
-
 
 
 
